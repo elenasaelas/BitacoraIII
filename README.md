@@ -33,8 +33,8 @@ A nivel empresarial y legal, especialmente bajo el marco del **RGPD en España**
 
 # Bibliografía
 
-[3] Canonical Ltd., "Ubuntu Server documentation," *Ubuntu Documentation*, 2025. [En línea]. Disponible en: https://ubuntu.com/server/docs/explanation/intro-to/security/
+[1] Canonical Ltd., "Ubuntu Server documentation," *Ubuntu Documentation*, 2025. [En línea]. Disponible en: https://ubuntu.com/server/docs/explanation/intro-to/security/
 
-[5] S. McClure, J. Scambray y G. Kurtz, *Hacking Exposed: Network Security Secrets & Solutions*, 3ª ed. Nueva York, NY, EE. UU.: McGraw-Hill Education, 2001. Disponible en: https://github.com/jwx0539/hackingLibrary/blob/master/McGraw.Hill.Hacking.Exposed.Network.Security.Secrets.And.Solutions.3rd.Edition.Sep.2001.ISBN.0072193816.pdf
+[2] S. McClure, J. Scambray y G. Kurtz, *Hacking Exposed: Network Security Secrets & Solutions*, 3ª ed. Nueva York, NY, EE. UU.: McGraw-Hill Education, 2001. Disponible en: https://github.com/jwx0539/hackingLibrary/blob/master/McGraw.Hill.Hacking.Exposed.Network.Security.Secrets.And.Solutions.3rd.Edition.Sep.2001.ISBN.0072193816.pdf
 
 Nota: Además de estos enlaces de búsqueda, también he utilizado el Notebook proporcionado por el docente donde aguarda todo el temario que llevamos dando hasta ahora.
